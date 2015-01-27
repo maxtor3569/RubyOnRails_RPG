@@ -1,4 +1,4 @@
-Medieval RPG's web app
+Medieval RPG's web app - Ruby On Rails
 ================
 
 This application was created by Robin CHALAS - FullStack Web Developer -  http://www.chalasdev.fr/
@@ -29,5 +29,5 @@ Author : [Robin Chalas](http://www.chalasdev.fr/) 2015
 License
 -------
 
-[License MIT](http://opensource.org/licenses/MIT)
+[License GPL V3](http://opensource.org/licenses/GPL-3.0)
 Copyright (c) 2014-2015 [Robin Chalas](http://www.chaladev.fr/)
