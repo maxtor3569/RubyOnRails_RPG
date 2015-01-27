@@ -17,27 +17,27 @@ This application requires:
 Getting Started
 ---------------
 
-- Clone this repository
+  - Clone this repository
 
-``` git clone https://github.com/chalas_r/RubyOnRails_RPG.git ```
+  ``` git clone https://github.com/chalas_r/RubyOnRails_RPG.git ```
 
-- Install gems
+  - Install gems
 
-``` bundle install ```
+  ``` bundle install ```
 
-- Create database
+  - Create database
 
-``` rake db:create ```
+  ``` rake db:create ```
 
-- Create Migrations
+  - Create Migrations
 
-``` rake db:migrate ```
+  ``` rake db:migrate ```
 
-- Start server
+  - Start server
 
-``` rails server ```
+  ``` rails server ```
 
-Enjoy !
+  Enjoy !
 
 Credits
 -------
