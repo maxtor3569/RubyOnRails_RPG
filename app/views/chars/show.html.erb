@@ -1,0 +1,29 @@
+<div class="row">
+  <div class="well col-md-4 col-md-offset-4">
+    <h1><%= @char.name %></h1>
+    <div class="panel panel-default">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Str</th>
+            <th>Hp</th>
+            <th>Stats</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><%= @char.str %></td>
+            <td><%= @char.hp %></td>
+            <td><%= @char.stats %></td>
+            <td>
+              <%= link_to 'Edit', edit_char_path(@char) %>
+              <%= link_to 'Back', chars_path %>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <br>
+</div>
