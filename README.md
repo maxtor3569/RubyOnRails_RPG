@@ -37,7 +37,7 @@ Getting Started
 
   ``` rails server ```
 
-  Enjoy !
+Enjoy !
 
 Credits
 -------
