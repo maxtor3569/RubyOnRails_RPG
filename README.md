@@ -42,7 +42,7 @@ Enjoy !
 Credits
 -------
 
-Author : [Robin Chalas](http://www.chalasdev.fr/) 2015
+Author : [Robin Chalas](http://www.chalasdev.fr/)
 
 License
 -------
