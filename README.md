@@ -2,11 +2,14 @@ Medieval RPG's web app - Ruby On Rails
 ================
 
 This application was created by Robin CHALAS - FullStack Web Developer -  http://www.chalasdev.fr/
+
 Problems? Issues?
-Contact me on chalasdev.fr
--------------
+--------------
+
+Write a message on chalasdev.fr or create an issue
 
 This application requires:
+-------------
 
 - Ruby 2.0.0
 - Rails 4.2.0
@@ -14,13 +17,28 @@ This application requires:
 Getting Started
 ---------------
 
-```ruby
+- Clone this repository
 
-  git clone http://github.com/chalas_r/RubyOnRails_RPG.git
-  bundle install
-  rails server
+``` git clone https://github.com/chalas_r/RubyOnRails_RPG.git ```
 
-```
+- Install gems
+
+``` bundle install ```
+
+- Create database
+
+``` rake db:create ```
+
+- Create Migrations
+
+``` rake db:migrate ```
+
+- Start server
+
+``` rails server ```
+
+Enjoy !
+
 Credits
 -------
 
