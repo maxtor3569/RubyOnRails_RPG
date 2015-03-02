@@ -62,9 +62,6 @@ pickle-email-*.html
 # Netbeans project directory
 /nbproject/
 
-# RubyMine project files
-.idea
-
 # Textmate project files
 /*.tmproj
 
