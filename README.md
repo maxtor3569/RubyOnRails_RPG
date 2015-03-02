@@ -1,6 +1,8 @@
 Medieval RPG's web app - Ruby On Rails
 ================
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7578f58a-7a93-4d36-84f8-e2146b4e57ff/small.png)](https://insight.sensiolabs.com/projects/7578f58a-7a93-4d36-84f8-e2146b4e57ff)
+
 This application was created by Robin CHALAS - FullStack Web Developer -  http://www.chalasdev.fr/
 
 Problems? Issues?
